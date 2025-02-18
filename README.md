@@ -20,14 +20,9 @@ Currently, I'm exploring **React.js, Tailwind CSS, and modern UI/UX practices**.
 
 ---
 
-## 📊 My GitHub Stats  
+## Some of my Github Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=dinkznasaruddin&color=blue)  
 
 ### Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinkznasaruddin&layout=compact&theme=radical)](https://github.com/dinkznasaruddin)  
 
----
-
-🚀 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinkznasaruddin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/dinkznasaruddin)  
