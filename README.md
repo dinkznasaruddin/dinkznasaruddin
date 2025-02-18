@@ -1,7 +1,7 @@
 ### Hi there, I'm Nas! 👋
 🔹 UI/UX Designer & Web Developer  
 🔹 Passionate about technology  
-🔹 Always learning and sharing knowledge  
+🔹 Always learning and sharing knowledges  
 
 📌 **Let's connect!**  
 
