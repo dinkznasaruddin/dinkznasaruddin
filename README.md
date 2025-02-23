@@ -12,8 +12,8 @@ I have experience in **front-end development & digital product design**.
 Currently, I'm exploring **Web Apps and modern UI/UX practices**.  
 
 🛠️ **Tech Stack:**  
-- **Programming:** HToML, CSS, Bootstrap, PHP
-- **Database:** MySql, Postgresql  
+- **Programming:** HTML, CSS, Bootstrap, PHP
+- **Database:** Mysql, Postgresql  
 - **Design Tools:** Figma
 - **Other:** GitHub  
 
