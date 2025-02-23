@@ -1,6 +1,6 @@
 # Hey 👋, I'm Nas
 
-[![Email](https://img.shields.io/badge/Email-dinkznasaruddin%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dinkznasaruddin91@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dinkznasaruddin91%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dinkznasaruddin91@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dinkznasaruddin-gray?style=flat&logo=github)](https://github.com/dinkznasaruddin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinkznasaruddin/)
 
