@@ -7,9 +7,9 @@
 ---
 
 💡 **About Me**  
-Adventurous, problem solver, and passionate about **web development & UI/UX design**.  
+Problem solver, and passionate about **web development & UI/UX design**.  
 I have experience in **front-end development & digital product design**.  
-Currently, I'm exploring **React.js, Tailwind CSS, and modern UI/UX practices**.  
+Currently, I'm exploring **Web Apps and modern UI/UX practices**.  
 
 🛠️ **Tech Stack:**  
 - **Programming:** HTML, CSS, Bootstrap  
