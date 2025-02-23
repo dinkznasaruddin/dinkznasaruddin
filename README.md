@@ -7,7 +7,7 @@
 ---
 
 💡 **About Me**  
-Problem solver, and passionate about **web development & UI/UX design**.  
+Good leadership, problem solver, and passionate about **web development & UI/UX design**.  
 I have experience in **front-end development & digital product design**.  
 Currently, I'm exploring **Web Apps and modern UI/UX practices**.  
 
