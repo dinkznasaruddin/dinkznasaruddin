@@ -13,7 +13,7 @@ Currently, I'm exploring **Web Apps and modern UI/UX practices**.
 
 🛠️ **Tech Stack:**  
 - **Programming:** HToML, CSS, Bootstrap, PHP
-- - **Data Base:** MySql, Postgresql  
+- **Database:** MySql, Postgresql  
 - **Design Tools:** Figma
 - **Other:** GitHub  
 
